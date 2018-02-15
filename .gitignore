@@ -10,4 +10,3 @@
 !/log/.keep
 /tmp
 *~Gemfile.lock
-/*.sqlite3
